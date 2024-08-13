@@ -1,0 +1,2 @@
+# Loan-Repayment-Prediction-Using-Random-Forest-and-DT
+ We’ll analyze LendingClub.com data from 2007-2010 to predict whether borrowers fully repaid their loans. Key features include credit policy, loan purpose, interest rate, income, debt-to-income ratio, FICO score, and more. The goal is to build a model to identify high-repayment likelihood borrowers, aiding investors in making informed decisions.
